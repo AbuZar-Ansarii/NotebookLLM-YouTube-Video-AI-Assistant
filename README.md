@@ -32,6 +32,10 @@ Inspired by Google NotebookLM, built with FastAPI, LangChain, Gemini Pro, Stream
 | Deployment   | Docker, Docker Compose        |
 
 ---
+# Add File 📂
+
+Please add .env file to backend
+content - GEMINI_API_KEY = "YOUR API KEY"
 
 ## 📂 Project Structure
 
