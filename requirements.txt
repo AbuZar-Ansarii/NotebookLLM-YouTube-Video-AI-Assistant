@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+youtube-transcript-api
+langchain
+langchain-google-genai
+streamlit
+gtts
+requests
+python-dotenv
