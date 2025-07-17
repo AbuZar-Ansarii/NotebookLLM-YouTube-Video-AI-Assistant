@@ -34,7 +34,7 @@ Inspired by Google NotebookLM, built with FastAPI, LangChain, Gemini Pro, Stream
 ---
 # Add File 📂
 
-Please add .env file to backend
+Please add .env file to backend folder \n
 content - GEMINI_API_KEY = "YOUR API KEY"
 
 ## 📂 Project Structure
