@@ -34,8 +34,16 @@ Inspired by Google NotebookLM, built with FastAPI, LangChain, Gemini Pro, Stream
 ---
 # Add File 📂
 
-Please add .env file to backend folder \n
+Please add .env file to backend folder 
 content - GEMINI_API_KEY = "YOUR API KEY"
+
+## ⚙️ Setup & Run
+
+### 1️⃣ Clone the repo
+
+```bash
+git clone https://github.com/AbuZar-Ansarii/NotebookLLM-YouTube-Video-AI-Assistant.git
+cd youtube-learning-assistant
 
 ## 📂 Project Structure
 
@@ -52,12 +60,5 @@ youtube-learning-assistant/
 
 ---
 
-## ⚙️ Setup & Run
-
-### 1️⃣ Clone the repo
-
-```bash
-git clone https://github.com/AbuZar-Ansarii/NotebookLLM-YouTube-Video-AI-Assistant.git
-cd youtube-learning-assistant
 
 
