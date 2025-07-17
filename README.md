@@ -1,7 +1,6 @@
 # 📚 YouTube Learning AI Assistant – NotebookLM Clone
 
-An AI-powered system that lets you **chat with YouTube videos** and **listen to transcripts**.
-An AI-powered learning assistant that lets you chat with YouTube videos, extract transcripts, and listen to the content.
+An AI-powered learning assistant that lets you **chat with YouTube videos**, extract transcripts, and **listen to transcripts**.
 Inspired by Google NotebookLM, built with FastAPI, LangChain, Gemini Pro, Streamlit & Docker.
 
 # Images
@@ -45,6 +44,10 @@ content - GEMINI_API_KEY = "YOUR API KEY"
 git clone https://github.com/AbuZar-Ansarii/NotebookLLM-YouTube-Video-AI-Assistant.git
 cd youtube-learning-assistant
 
+# Docker pull command
+docker pull abuzar718/aivideoassistant-backend:latest
+docker pull abuzar718/aivideoassistant-frontend:latest
+
 ## 📂 Project Structure
 
 youtube-learning-assistant/
@@ -56,9 +59,4 @@ youtube-learning-assistant/
 ├── requirements.txt
 ├── .env.example
 └── README.md
-
-
 ---
-
-
-
